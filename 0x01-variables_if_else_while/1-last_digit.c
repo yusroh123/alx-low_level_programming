@@ -3,7 +3,7 @@
 #include <stdio.h>
 /* more headers goes there */
 /* 
-* main - Prints the last number of n
+* main: Prints the last number of n
 *Description:tells whether it is greater,less,or equal to 0
 *Return: 0 if true
 */
