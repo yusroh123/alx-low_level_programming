@@ -1,1 +1,1 @@
-c programming language
+tests on arrays,pointers and strings
